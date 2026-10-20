@@ -1,0 +1,6 @@
+# 编译产物（发布用可执行文件请走 GitHub Release，不入库）
+/dist/
+
+# Go 测试与覆盖率产物
+*.test
+*.out
